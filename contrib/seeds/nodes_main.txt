@@ -1,0 +1,25 @@
+# Hardcoded mainnet seed nodes for Namecoin.
+
+# "Random" stable nodes from seed.namecoin.domob.eu.
+144.76.13.207:8334
+188.138.94.6:8334
+82.200.205.30:8334
+72.74.133.29:8334
+69.172.212.4:8334
+144.76.176.12:8334
+81.138.88.100:8334
+198.15.127.242:8334
+212.47.228.136:8334
+72.20.58.55:8334
+199.192.77.162:8334
+176.9.65.41:8334
+176.9.113.75:8334
+204.27.61.162:8334
+199.192.78.194:8334
+
+# Explicitly contributed fixed-IP nodes.
+76.74.177.197:8334
+
+# Known .onion addresses of nodes.
+fp7k2dennh52dzql.onion
+nww7uwo4diginmcm.onion:8443
