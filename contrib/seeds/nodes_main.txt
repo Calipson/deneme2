@@ -1,6 +1,6 @@
-# Hardcoded mainnet seed nodes for Namecoin.
+# Hardcoded mainnet seed nodes for Denemecoin.
 
-# "Random" stable nodes from seed.namecoin.domob.eu.
+# "Random" stable nodes from seed.denemecoin.domob.eu.
 144.76.13.207:8334
 188.138.94.6:8334
 82.200.205.30:8334
