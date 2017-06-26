@@ -13,7 +13,7 @@ What does it do?
 
 * Securely record and transfer arbitrary names (keys).
 * Attach a value (data) to the names (up to 520 bytes, more in the future).
-* Transact denemecoins, the digital currency (ℕ, DC).
+* Transact denemecoins, the digital currency (DC).
 
 denemecoin was the first fork of Bitcoin and still is one of the most innovative altcoins. It was first to implement merged mining and a decentralized DNS. denemecoin squares Zooko's Triangle!
 
@@ -26,8 +26,7 @@ What can it be used for?
 * Human readable Tor .onion names/domains.
 * File signatures, Voting, bonds/stocks,/shares, web of trust, escrow and notary services (to be implemented).
 
-~~For more information, as well as an immediately useable, binary version of~~
-~~the denemecoin Core software, see https://denemecoin.org/?p=download.~~
+
 Public binary downloads are not yet posted.
 
 License
