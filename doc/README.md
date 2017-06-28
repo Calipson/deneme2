@@ -1,34 +1,33 @@
-Namecoin Core
+Denemecoin Core
 ==============
 
 Setup
 ---------------------
-[Namecoin Core](http://namecoin.org/) is the official Namecoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Namecoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
+[Denemecoin Core](http://denemecoin.org/) is the official Denemecoin client and it builds the backbone of the network. However, it downloads and stores the entire history of Denemecoin transactions (which is currently several GBs); depending on the speed of your computer and network connection, the synchronization process can take anywhere from a few hours to a day or more.
 
 Running
 ---------------------
-The following are some helpful notes on how to run Namecoin on your native platform.
+The following are some helpful notes on how to run Denemecoin on your native platform.
 
 ### Unix
 
 Unpack the files into a directory and run:
 
-- `bin/namecoin-qt` (GUI) or
-- `bin/namecoind` (headless)
+- `bin/denemecoin-qt` (GUI) or
+- `bin/denemecoind` (headless)
 
 ### Windows
 
-Unpack the files into a directory, and then run namecoin-qt.exe.
+Unpack the files into a directory, and then run denemecoin-qt.exe.
 
 ### OS X
 
-Drag Namecoin-Qt to your applications folder, and then run Namecoin-Qt.
+Drag Namecoin-Qt to your applications folder, and then run Denemecoin-Qt.
 
 ### Need Help?
 
-* See the documentation at the [Namecoin Site](https://namecoin.org) for help and more information.
-* Ask for help on [#namecoin](http://webchat.freenode.net?channels=namecoin) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net?channels=namecoin).
-* Ask for help on the [Namecoin forums](https://forum.namecoin.info/index.php), in the [Technical Support board](https://forum.namecoin.info/viewforum.php?f=7).
+* See the documentation at the [Denemecoin Site](http://denemecoin.org) for help and more information.
+
 
 Building
 ---------------------
@@ -42,7 +41,7 @@ The following are developer notes on how to build Bitcoin on your native platfor
 
 Development
 ---------------------
-The Namecoin repo's [root README](https://github.com/namecoin/namecore/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Namecoin repo's [root README](https://github.com/denemecoin/denemecore/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
@@ -57,9 +56,7 @@ The Namecoin repo's [root README](https://github.com/namecoin/namecore/blob/mast
 - [Dnsseed Policy](dnsseed-policy.md)
 - [Benchmarking](benchmarking.md)
 
-### Resources
-* Discuss on the [Namecoin forums](https://forum.namecoin.info/index.php), in the [Development & Technical Discussion board](https://forum.namecoin.info/viewforum.php?f=8).
-* Discuss on [#namecoin-dev](http://webchat.freenode.net/?channels=namecoin-dev) on Freenode. If you don't have an IRC client use [webchat here](http://webchat.freenode.net/?channels=namecoin-dev).
+
 
 ### Miscellaneous
 - [Assets Attribution](assets-attribution.md)
