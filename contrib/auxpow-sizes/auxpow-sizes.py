@@ -20,7 +20,7 @@ import jsonrpc
 import sys
 import urllib
 
-username = urllib.quote_plus ("namecoin")
+username = urllib.quote_plus ("denemecoin")
 password = urllib.quote_plus ("password")
 port = 8336
 url = "http://%s:%s@localhost:%d/" % (username, password, port)
