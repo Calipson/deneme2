@@ -1,6 +1,6 @@
 all:
-	$(MAKE) -C .. namecoin_test
+	$(MAKE) -C .. denemecoin_test
 clean:
-	$(MAKE) -C .. namecoin_test_clean
+	$(MAKE) -C .. denemecoin_test_clean
 check:
-	$(MAKE) -C .. namecoin_test_check
+	$(MAKE) -C .. denemecoin_test_check
