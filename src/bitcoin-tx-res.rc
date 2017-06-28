@@ -17,7 +17,7 @@ BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
             VALUE "CompanyName",        "denemecoin"
-            VALUE "FileDescription",    "denemecoin-tx (CLI Namecoin transaction editor utility)"
+            VALUE "FileDescription",    "denemecoin-tx (CLI Denemecoin transaction editor utility)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
             VALUE "InternalName",       "denemecoin-tx"
             VALUE "LegalCopyright",     COPYRIGHT_STR
