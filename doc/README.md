@@ -22,7 +22,7 @@ Unpack the files into a directory, and then run denemecoin-qt.exe.
 
 ### OS X
 
-Drag Namecoin-Qt to your applications folder, and then run Denemecoin-Qt.
+Drag Denemecoin-Qt to your applications folder, and then run Denemecoin-Qt.
 
 ### Need Help?
 
@@ -41,7 +41,7 @@ The following are developer notes on how to build Bitcoin on your native platfor
 
 Development
 ---------------------
-The Namecoin repo's [root README](https://github.com/denemecoin/denemecore/blob/master/README.md) contains relevant information on the development process and automated testing.
+The Denemecoin repo's [root README](https://github.com/denemecoin/denemecore/blob/master/README.md) contains relevant information on the development process and automated testing.
 
 - [Developer Notes](developer-notes.md)
 - [Release Notes](release-notes.md)
