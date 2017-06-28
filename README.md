@@ -1,7 +1,7 @@
-denemecoin Core integration/staging tree
+Denemecoin Core integration/staging tree
 =====================================
 
-https://denemecoin.org
+http://denemecoin.org
 
 What is denemecoin? 
 ----------------
